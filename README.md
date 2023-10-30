@@ -1,2 +1,2 @@
 # Portfolio
-https://priyansh2174.github.io/Portfolio/
+https://priyansh-rastogi.netlify.app/
